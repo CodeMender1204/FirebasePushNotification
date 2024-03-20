@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "425161181516",
+    "project_id": "fir-pushnotification-e8f3b",
+    "storage_bucket": "fir-pushnotification-e8f3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425161181516:android:ddb346f3f99963487527e9",
+        "android_client_info": {
+          "package_name": "com.renfirebasecloudmessaging"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4Pw1AhrVEMP1-EX3NIbDw1XVI5Q0YaRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
